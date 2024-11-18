@@ -1,0 +1,17 @@
+
+
+
+
+the concept is - to create a blue print of a Hybrid framework with POM and page factory implemented and Cucumber with Java and testNG intrigreted.
+
+
+url - Google.com
+
+> paraller executed
+> parameterize data globally and locally
+> group / tags
+> Hooks / before or after 
+> genarate PDF extent spark report and logging
+> implement Oops (encapsulation - inheritance - ploymorphism - Abstraction )
+> use property file to read the data
+ 
